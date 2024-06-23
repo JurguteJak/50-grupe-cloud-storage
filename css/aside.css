@@ -1,0 +1,22 @@
+aside {
+    background-color: #6236FF;
+    display: flex;
+    flex-direction: column;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+
+.link {
+    padding: 50px;
+    text-decoration: none;
+    color: #B09AFF;
+}
+.active {
+    color: white;
+    background-color: bisque;
+}
+

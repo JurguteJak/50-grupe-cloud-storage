@@ -1,0 +1,22 @@
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.form {
+
+}
+.user-block {
+    display: flex;
+    align-items: center;
+    gap: 10px; 
+}
+.user-name {
+    color: #ABAFBE;
+}
+
+.avatar {
+    height: 30PX;
+    border-radius: 50%;
+}

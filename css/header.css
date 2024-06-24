@@ -2,11 +2,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 20px 30px;
 }
 .form {
-
+    
 }
+
+.form > input {
+    border: none;
+    color: #A2A2CD;
+    line-height: 20px;
+}
+
 .user-block {
     display: flex;
     align-items: center;
